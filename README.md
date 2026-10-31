@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
+
 # SECTOR — website
 
 Public project website, project status, and future download information.
@@ -20,4 +22,4 @@ SECTOR is independent and is not affiliated with, endorsed by, or officially app
 
 ## Licensing
 
-SECTOR-authored software is licensed under **AGPL-3.0-only**. Prose documentation, branding, and datasets require separate content licensing. Third-party terms are preserved. See [licensing scope](LICENSING.md) and [license text](LICENSE).
+SECTOR-authored software is licensed under **AGPL-3.0-only**. We license our original prose, illustrations, and synthetic datasets under CC-BY-SA-4.0. We preserve third-party terms and handle branding separately. See [licensing scope](LICENSING.md) and [license text](LICENSE).
